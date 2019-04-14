@@ -1,0 +1,13 @@
+{
+  "name": "Black-Tomcat.github.io",
+  "version": "1.0.0",
+  "description": "A personal website and a staging ground for Wombat",
+  "main": "index.js",
+  "repository": "https://github.com/Black-Tomcat/Black-Tomcat.github.io.git",
+  "author": "Black-Tomcat <tomcat.frantz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
